@@ -1,0 +1,28 @@
+_repo: The-Ranch-Girls-at-Boarding-School_56097
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bodine, Hugh A.
+    alias: Bodine, H. A.
+    gutenberg_agent_id: '36386'
+    url: http://www.gutenberg.org/2009/agents/36386
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2017-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Ranch Girls at Boarding School
+url: http://www.gutenberg.org/ebooks/56097
